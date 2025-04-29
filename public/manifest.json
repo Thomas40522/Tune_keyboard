@@ -1,0 +1,20 @@
+{
+  "name": "Pitch Tuning",
+  "description": "Play specific notes for the user to gain recognition over certain pitch",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Pitch Tuning",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "128": "logo192.png"
+    }
+  },
+  "permissions": [
+  ],
+  "host_permissions": [
+    "http://*/",
+    "https://*/"
+  ]
+}
